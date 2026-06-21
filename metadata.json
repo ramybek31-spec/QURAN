@@ -1,0 +1,6 @@
+{
+  "name": "Al-Quran",
+  "description": "An offline-first Quran application with beautiful Arabic display, translation, search, customizable text scaling, audio recitations, bookmarks, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
